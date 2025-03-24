@@ -1,5 +1,8 @@
 # Eylem
 
+!!! danger "TEK BAŞINIZA ÇIKMAYIN"
+    EN AZ yanınızda 2-3 kişi OLSUN
+
 ## Asla Yapılmayacaklar
 
 - İnsanların yüzünün gözüktüğü fotoğrafları **paylaşmayın**

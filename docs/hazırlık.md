@@ -1,12 +1,23 @@
 # Hazırlanma
 
+!!! warning "Tek Başınıza Eyleme Katılmayın"
+    EN AZ yanınızda 2-3 kişi OLSUN.
+
+## Ne getirilmez?
+
+- Değerli aksesuar veya eşyalar
+- Göz lensleri getirmeyin ❗❗❗
+- Yasadışı/suçlayıcı şeyler
+
 ## Ne giyilir?
 
 - Mümkünce siyah, vücudun heryerini kaplayan kıyafet. (Biber gazından olabildiğince az etkilenmek için)
+    - Kalın giysiler giyin (plastik mermiye karşı)
 - Yedek kıyafet (ıslanabilirsiniz)
-- Mümkünse Kask
-- Eldivenler, sıcaktan koruyabiliyorsa daha iyi.
-- Saçınızı toplamaya çalışın (tutulmaması için)
+- Saçınızı toplayın (tutulup çekilmemesi için)
+- Ayakkabı olarak Converse tipi hafif ve bilekten bağlı ayakkabılar sizi hem ayakkabı kaybetmekten hem de bilek burkulmasindan korur
+- Ayakkabılarınızı bilekten bağlayın
+- Isı korumalı eldivenler (iş eldiveni, motorcu eldiveni vb.) de eğer ön tarafta durup polise direnecekseniz işinizi kolaylaştırır. Size gelen gaz kapsulunu alıp geri atayım isterseniz bunlar iş görebilir
 
 ## Korunma
 
@@ -17,19 +28,9 @@
 - Göz koruması
     - Normal gözlük biber gazından koruyamaz!
     - Yüzme gözlüğü veya kaliteli laboratuvar gözlükleri
-- Plastik Mermilere karşı korunma
-    -  Kalın giysiler giyin
-    - Telefonlarınızı, cüzdanlarınızı ön cebinizde tutun. Kimi zaman darbenin çoğunu onlar emebiliyorlar
-    - Derme çatma kalkanlar yapmaya çalışın, içi kitapla dolu çantalarla falan. Ya da elinize bir polis geçirdiyseniz onun kalkanını alıp kullanın
-- Gaz Kapsülüne Karşı Korunma
-    - Motorsiklet kaskı, inşaat kaskı gibi sağlam bir şey takın başınıza. Sakın ama sakın yüzünüze ya da başınıza korumasız bir biçimde kapsül isabet etmesine yol vermeyin!
-    - Yukarıda biber gazı için olan uyarıları dikkate alın
-    - Kalın eldivenler bulundurun. Bunlarla gaz kapsüllerini onlara geri atın. Ya da üstlerini kapayın
-- Coplara Karşı Korunma
-    - Kolunuzla engellemeye çalışmayın! Kolunuz kırılır. Kaçının
-    - Tek başınıza kalmayın! Sağınızda solunuzda kesinlikle başka insanlar olsun
-    - Olmadı kaçın! İlerlemek ölmeye ya da tutuklanmaya değmez
-    - Tek başınıza kaldıysanız ve sizi öldüresiye dövmeye başladılarsa top biçiminde yuvarlanın. Dolu bir çantanız varsa iyi, omurganız kırılmaz. Gaz kapsülü için kask taktıysanız daha bile iyi, kafatasınız kırılmaz. Kaskı tüm gücünüzle başınızda tutun
+    - Gezi'liler "Tam kapalı şeffaf **iş gözlüğü**" öneriyor, 120 TL civarı.
+- Kask
+    - Darbe emici, iş kaskı, motor kaskı vb. işe yarar
 
 Ayrıca bkz. [Müdahale](./mudahale.md)
 
@@ -40,15 +41,10 @@ Ayrıca bkz. [Müdahale](./mudahale.md)
 - Kimlik
 - Powerbank (tam doldur!)
 - Bandaj, ilk yardım malzemeleri
+    - gazlı bez, plaster, dezenfektan, yanık kremi, ağrı lesici, alerji ilacı
 - [Biber gazına müdahale için](./mudahale.md#anti-asit):
     - Rennie / Talcid (ilaç)
 - Kulak tıkaçları
-
-## Ne getirilmez?
-
-- Değerli aksesuar veya eşyalar
-- Göz lensleri ❗❗❗
-- Yasadışı/suçlayıcı şeyler
 
 ## Koluma ne yazmalıyım?
 

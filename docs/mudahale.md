@@ -8,6 +8,22 @@
 - Eğer koruyucu ekipmanınız varsa aktif olun ve gaz kapsülünü tekmeleyerek uzaklaştırın.
 - Kapsüller kanalizasyon deliğine itilerek veya suya daldırılarak etkisini azaltabilirsiniz.
 - Kapsülller insan üzerine fırlatılırsa yaralanma ve ölüme neden olabilir. Sakin olun ve yaralananları güvenli bir yere taşıyım.
+- Motorsiklet kaskı, inşaat kaskı gibi sağlam bir şey takın başınıza. Sakın ama sakın yüzünüze ya da başınıza korumasız bir biçimde kapsül isabet etmesine yol vermeyin!
+- Yukarıda biber gazı için olan uyarıları dikkate alın
+- Kalın eldivenler bulundurun. Bunlarla gaz kapsüllerini onlara geri atın. Ya da üstlerini kapayın
+
+## Plastik Mermi
+
+- Kalın giyinmek yardımcı olur
+- Telefonlarınızı, cüzdanlarınızı ön cebinizde tutun. Kimi zaman darbenin çoğunu onlar emebiliyorlar
+- Derme çatma kalkanlar yapmaya çalışın, içi kitapla dolu çantalarla falan. Ya da elinize bir polis geçirdiyseniz onun kalkanını alıp kullanın
+
+## Coplara Karşı Korunma
+
+- Kolunuzla engellemeye çalışmayın! Kolunuz kırılır. Kaçının
+- Tek başınıza kalmayın! Sağınızda solunuzda kesinlikle başka insanlar olsun
+- Olmadı kaçın! İlerlemek ölmeye ya da tutuklanmaya değmez
+- Tek başınıza kaldıysanız ve sizi öldüresiye dövmeye başladılarsa top biçiminde yuvarlanın. Dolu bir çantanız varsa iyi, omurganız kırılmaz. Gaz kapsülü için kask taktıysanız daha bile iyi, kafatasınız kırılmaz. Kaskı tüm gücünüzle başınızda tutun
 
 ## Anti-Asit
 
