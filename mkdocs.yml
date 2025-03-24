@@ -1,0 +1,18 @@
+site_name: Saraçhane
+
+theme:
+  name: material
+  palette: 
+    scheme: slate
+    primary: black
+    accent: indigo
+  
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - def_list
+
+plugins:
+  - glightbox
