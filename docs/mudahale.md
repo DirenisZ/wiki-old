@@ -4,6 +4,8 @@
 
 - Biber gazı parçacık/toz halindedir, bu yüzden boya/toz maskeleri işe yarar.
 - Su ile temas ettiğinde tahriş edebilir.
+- Etkilerini azaltmak için [Anti-Asit](#anti-asit) kullanabilirsiniz. Göze gelmesin
+- Göz için süt öneriliyor
 - Ağlama, hapşurma, öksürme, solunum zorluğu, gözde yanma, acı, gözyaşı, geçici körlüğe vs. yol açar.
 - Eğer koruyucu ekipmanınız varsa aktif olun ve gaz kapsülünü tekmeleyerek uzaklaştırın.
 - Kapsüller kanalizasyon deliğine itilerek veya suya daldırılarak etkisini azaltabilirsiniz.
@@ -29,9 +31,11 @@
 
 Bazı anti-asit formülleri:
 
-- 1 Litre suya **6 Tablet Rennie**
+1 litre solüsyonda irrite etmeyecek ve efektif ıkaraj gazırlamak için ortalama 2gr etken madde içermesi oldukça yeterli olacaktır.
+
+- 1 Litre suya **3 Kapsül Rennie**
+- 1 Litre suya **4 Kapsül Talcid**
 - 1 Litre suya **1 Kaşık Karbonat**
-- Talcid (formülünü daha bulamadım)
 
 ## İlk Yardım
 

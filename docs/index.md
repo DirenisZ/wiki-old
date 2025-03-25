@@ -1,4 +1,4 @@
-# DirenişZ Wiki
+# 19 Mart Eylemleri
 
 ## Sayfalar
 
@@ -6,13 +6,14 @@
 - [Eylem](./eylem.md): Kortej bilgisi, neler yapılır, neler yapılmaz
 - [Hukuki Kaynaklar](./hukuk.md): Haklarınızı bilin, gözaltı için bilgiler, **avukat numaraları**
 - [Müdahale](./mudahale.md): Biber gazı, toma, plastik mermi hakkında ve ilk yardım bilgileri
-- [Notlar](./notlar.md): Polisin kullandığı taktikler ve diğer bilgiler
+- [Notlar](./notlar.md): Polisin kullandığı **taktikler** ve diğer önemli bilgiler
 
 ## Başka Web Siteleri
 
 - [Özgürlük Haritası](https://ozgurluk-haritasi.netlify.app): Güncel protesto ve mitingler
 - [itaatet.me](https://itaatet.me/): ODTÜ Boykot Haritası
 - [boykot.web.tr](https://boykot.web.tr): Topluluk Destekli Boykot Platformu
+- 🔴 [engelliyoruz.tr](https://engelliyoruz.tr/) - *Sanıyoruz ki çöktü*
 
 ## Bazı Threadler
 
@@ -37,4 +38,4 @@ Siteye eklememiz istediğiniz şeyler için `direnisz19@gmail.com` 'dan e-posta 
 
 ---
 
-sürüm: commit_id_placeholder
+Sürüm: commit_id_placeholder
