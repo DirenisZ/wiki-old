@@ -1,5 +1,10 @@
 # Notlar
 
+## Bazı Terimler
+
+- **Döviz**: Pankart
+- **Talcid/Rennie**: [Anti-asit](./mudahale.md#anti-asit) / biber gazı için yapılan spreydeki ilaçların ismi
+
 ## Taksi, Ambulans ve Eczane
 
 - Eylem yerlerindeki taksiler kimlik sorup polis ile beraber çalışıyorlar.

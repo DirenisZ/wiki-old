@@ -15,6 +15,9 @@
 - [boykot.web.tr](https://boykot.web.tr): Topluluk Destekli Boykot Platformu
 - 🔴 [engelliyoruz.tr](https://engelliyoruz.tr/) - *Sanıyoruz ki çöktü*
 
+!!! tip "Dikkat"
+    İstanbul'da Saraçhane'de yavaş yavaş çıkmaz oluyor. Herkes bu yüzden Beşiktaş/Levent civarlarına gidiyor.
+
 ## Bazı Threadler
 
 - 🧵 Gezi'den birisinin verdiği tavsiyeler [OKU](https://x.com/binnazreturns/status/1904073030717800936)
