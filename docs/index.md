@@ -33,4 +33,4 @@
 
     Toplantı ve gösteri yürüyüşü düzenleme hakkının kullanılmasında uygulanacak şekil, şart ve usuller kanunda gösterilir.
 
-commit_id_placeholder
+version: commit_id_placeholder
