@@ -20,4 +20,4 @@ jobs:
       - run: pip install mkdocs-glightbox
       - run: sed -i "s/commit_id_placeholder/$COMMIT_ID_SHA/" ./docs/index.md
       - run: mkdocs build
-      - run: surge ./ ${{ secrets.SURGE_DOMAIN }} --token ${{ secrets.SURGE_TOKEN }}
+      - run: surge ./site ${{ secrets.SURGE_DOMAIN }} --token ${{ secrets.SURGE_TOKEN }}
