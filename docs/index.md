@@ -1,6 +1,6 @@
 # Eylem Wiki
 
-Buraya sık sık bakın, güncelliyoruz. Siz de [yardım edebilirsiniz](#geri-bildirim-ekleme-istegi)
+Buraya sık sık bakın, güncelliyoruz. Siz de [yardım edebilirsiniz](#geri-bildirim-ekleme-istegi). Siteye [direnisz.com](https://direnisz.com) linki ile ulaşabilirsiniz.
 
 ## Sayfalar
 
@@ -16,9 +16,6 @@ Buraya sık sık bakın, güncelliyoruz. Siz de [yardım edebilirsiniz](#geri-bi
 - [itaatet.me](https://itaatet.me/): ODTÜ Boykot Haritası
 - [boykot.web.tr](https://boykot.web.tr): Topluluk Destekli Boykot Platformu
 - 🔴 [engelliyoruz.tr](https://engelliyoruz.tr/) - *404, Sanıyoruz ki çöktü*
-
-!!! tip "Dikkat"
-    İstanbul'da Saraçhane'de yavaş yavaş çıkmaz oluyor. Herkes bu yüzden Beşiktaş/Levent civarlarına gidiyor.
 
 ## Bazı Threadler
 
