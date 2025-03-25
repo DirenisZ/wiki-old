@@ -1,7 +1,6 @@
 # Hazırlanma
 
-!!! warning "Tek Başınıza Eyleme Katılmayın"
-    EN AZ yanınızda 2-3 kişi OLSUN.
+Eyleme mi katılacaksın? Buradaki bilgilere göre hazırlan.
 
 ## Ne getirilmez?
 
@@ -34,24 +33,31 @@
 
 Ayrıca bkz. [Müdahale](./mudahale.md)
 
-## Ekipman
+## Eşyalar
 
-- Su, Atıştırmalık
+- Su, Şekerli atıştırmalıklar, mümkünse elektrolit içeren sıvılar
 - Para (Nakit! Kart getirmemeye çalışın)
 - Kimlik
 - Powerbank (tam doldur!)
-- Bandaj, ilk yardım malzemeleri
-    - gazlı bez, plaster, dezenfektan, yanık kremi, ağrı lesici, alerji ilacı
-- [Biber gazına müdahale için](./mudahale.md#anti-asit):
-    - Rennie / Talcid (ilaç)
+- [İlk yardım](./mudahale.md#i̇lk-yardım) malzemeleri
+    - Bandaj
+    - Gazlı bez
+    - Plaster
+    - Dezenfektan
+    - Yanık kremi
+    - Ağrı kesici
+    - Alerji ilacı vb.
+- [Biber gazına müdahale için](./mudahale.md#anti-asit) ekstra Rennie / Talcid (ilaç) alabilirsiniz
 - Kulak tıkaçları
 
-## Koluma ne yazmalıyım?
+## Acil bilgiler
+
+Bunları kolunuza yazın. Bir parça kağıda da yazabilirsiniz ama kolunuza vb. yazmak daha iyi olur.
 
 - Kan grubun
 - Kronik hastalık/alerji (var ise)
 - [Avukat numarası/hukuki destek](./hukuk.md#avukat-numaralar)
-- Acil durum için arayabileceğiniz bir yakının numarası
+- Acil durum için arayabileceğiniz bir kişinin numarası
 - TCKN gibi bilgiler yazmanız yardımcı olmayacaktır
 
 !!! warning "Telefon Güvenliği"
@@ -60,3 +66,7 @@ Ayrıca bkz. [Müdahale](./mudahale.md)
     Telefonunuzu yeniden başlatırsanız biyometriği kabul etmeyecektir.
 
     Polise tutuklanırsanız ve telefonunuza el konulursa biyometrik ile kolayca açabilirler. **Polis size telefonunuzu zorla açtıramaz**
+
+## Sonraki adım
+
+[Eylem sayfası, eylemde ne yapılır vb.](./eylem.md)

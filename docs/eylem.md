@@ -2,7 +2,7 @@
 
 ## Tek Kalmayın
 
-Asla ama asla tek olmayın. Olabilirse grup olarak gidin.
+Asla ama asla tek olmayın. Olabilirse grup olarak gidin. En az 3 kişi önerimizdir.
 
 ## Asla Yapılmayacaklar
 
@@ -16,24 +16,26 @@ Asla ama asla tek olmayın. Olabilirse grup olarak gidin.
 
 ## KORTEJ 101
 
-1. Öncü Grup (En Ön)
+Eylemcilerin olduğu yapı
+
+`1.` **Öncü Grup (En Ön)**
 
 :   Kalkanlılar ve Koruma grubu;
     Katılımcıları biber gazı, plastik mermi ve müdahalelere karşı korur
     Çöp kutuları, tahta/mdf bariyerler beya battaniye gibi malzemeler kullanılır
 
-2. Bayrak/Tabela Taşıyanlar
+`2.` **Bayrak/Tabela Taşıyanlar**
 
 :   Grubu yönlendirir ve kortejin kimliğini görünür kılar.
     Medya & gözlemciler (ön hat yanlarında), bağımsız gazeteciler, hukukçular, sağlık destekcileri
     müdahale anlarını kaydederek hukuki güvence sağlar.
 
-3. Orta Hat (Müdahale Ekibi)
+`3.` **Orta Hat (Müdahale Ekibi)**
 
 :   Göz yaşartıcı fazı etkisiz hale getirmek için müdahale ederler.
     İlk yardım ekipleri yaralanan ve etkilenenleri hızlıca uzaklaştırır.
 
-4. Arka Hat (Ana Kitle)
+`4.` **Arka Hat (Ana Kitle)**
 
 :   **Çoğunluğu oluşturur**, kortejin enerjisini ve motivasyonunu sağlar.
     Slogan atanlar, pankart taşıyanlar, müzisyenler bulunur.

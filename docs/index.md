@@ -1,4 +1,6 @@
-# 19 Mart Eylemleri
+# Eylem Wiki
+
+Buraya sık sık bakın, güncelliyoruz. Siz de [yardım edebilirsiniz](#geri-bildirim-ekleme-istegi)
 
 ## Sayfalar
 
@@ -8,12 +10,12 @@
 - [Müdahale](./mudahale.md): Biber gazı, toma, plastik mermi hakkında ve ilk yardım bilgileri
 - [Notlar](./notlar.md): Polisin kullandığı **taktikler** ve diğer önemli bilgiler
 
-## Başka Web Siteleri
+## Diğer Web Siteleri
 
 - [Özgürlük Haritası](https://ozgurluk-haritasi.netlify.app): Güncel protesto ve mitingler
 - [itaatet.me](https://itaatet.me/): ODTÜ Boykot Haritası
 - [boykot.web.tr](https://boykot.web.tr): Topluluk Destekli Boykot Platformu
-- 🔴 [engelliyoruz.tr](https://engelliyoruz.tr/) - *Sanıyoruz ki çöktü*
+- 🔴 [engelliyoruz.tr](https://engelliyoruz.tr/) - *404, Sanıyoruz ki çöktü*
 
 !!! tip "Dikkat"
     İstanbul'da Saraçhane'de yavaş yavaş çıkmaz oluyor. Herkes bu yüzden Beşiktaş/Levent civarlarına gidiyor.
@@ -25,21 +27,6 @@
 ## Geri Bildirim / Ekleme isteği
 
 Siteye eklememiz istediğiniz şeyler için `direnisz19@gmail.com` 'dan e-posta atabilirsiniz.
-
-Katkıda bulmanızı bekliyoruz.
-
-## Nedir?
-
-19 Mart 2025'te İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu ve birçok kişi toplu bir şekilde gözaltına alındı. Avrupa Konseyi, Avrupa Parlamentosu ve İnsan Hakları İzleme Örgütü, İmamoğlu'nun gözaltına alınmasını şiddetle kınayarak, bu durumu **halkın iradesine karşı bir adım olarak değerlendirdi**. Gözaltından sonra, **Türkiye'de hükûmet karşıtı protestolar başladı**.
-
-**Bu artık İmamoğlu ile alakalı değildir. Hak, adalet ve irade meselesidir**
-
-??? quote "Anayasanın 34. Maddesi"
-    Herkes, önceden izin almadan, silahsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkına sahiptir.
-
-    Toplantı ve gösteri yürüyüşü hakkı ancak,  millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlığın ve genel ahlâkın veya başkalarının hak ve özgürlüklerinin korunması amacıyla ve kanunla sınırlanabilir.
-
-    Toplantı ve gösteri yürüyüşü düzenleme hakkının kullanılmasında uygulanacak şekil, şart ve usuller kanunda gösterilir.
 
 ---
 
