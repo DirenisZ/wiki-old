@@ -27,10 +27,10 @@
 **Bu artık İmamoğlu ile alakalı değildir. Hak, adalet ve irade meselesidir**
 
 ??? quote "Anayasanın 34. Maddesi"
-Herkes, önceden izin almadan, silahsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkına sahiptir.
+    Herkes, önceden izin almadan, silahsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkına sahiptir.
 
     Toplantı ve gösteri yürüyüşü hakkı ancak,  millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlığın ve genel ahlâkın veya başkalarının hak ve özgürlüklerinin korunması amacıyla ve kanunla sınırlanabilir.
 
     Toplantı ve gösteri yürüyüşü düzenleme hakkının kullanılmasında uygulanacak şekil, şart ve usuller kanunda gösterilir.
 
-Version: commit_id_placeholder
+commit_id_placeholder
