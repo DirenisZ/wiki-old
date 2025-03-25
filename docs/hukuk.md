@@ -25,28 +25,41 @@
 
 ## Avukat Numaraları
 
-- **533 575 62 62** - Ankara Barosu Acil Yardım Hattı 
-- **533 429 56 56** - Ankara Barosu Acil Yardım Hattı
-- **538 217 56 82** - CHP Hukuki Destek
-- **537 401 24 06** - CHP Hukuki Destek
-- **312 416 72 00** - Ankara Baro Çağrı Merkezi       
-- **539 418 08 69** - Avukatın Sesi İnsiyatifi        
-- **507 784 89 81** - Avukatın Sesi İnsiyatifi      
-- **539 274 44 96** - (Ankara) Çağdaş Hukukçular Derneği       
-- **531 974 39 30** - (Ankara) Çağdaş Hukukçular Derneği   
-- **535 518 70 26** - (İstanbul) Çağdaş Hukukçular Derneği
-- **505 570 78 29** - (İstanbul) Çağdaş Hukukçular Derneği
-- **543 965 85 31** - (İstanbul) Eyüp Numan Eren  
-- **535 518 70 36** - (İstanbul) Ezgi Önalan  
-- **506 675 00 29** - (İstanbul) Barış Can Gökmen
-- **530 110 36 69** - (İstanbul) Ayperi Kemer
-- **536 990 90 60** - (İstanbul) Yaman Saygılı
-- **530 084 27 85** - (Ankara) Av. Harun Fırsat Ulusu          
-- **553 919 13 57** - (Ankara) Av. Betül Kaya                  
-- **552 320 66 09** - (Ankara) Ayberk                 
-- **530 569 64 91** - (Ankara) Banu                   
-- **532 268 07 81** - (Ankara) Burcu                  
-- **543 643 00 39** - (Ankara) Erdem                  
-- **532 546 59 57** - (Ankara) Esra                   
-- **532 292 27 52** - (Ankara) Murat                  
-- **506 619 67 73** - (Ankara) Sine                   
+- Tümü/Bilinmiyor
+    - **538 217 56 82** - CHP Hukuki Destek
+    - **537 401 24 06** - CHP Hukuki Destek
+    - **507 784 89 81** - Avukatın Sesi İnsiyatifi
+- İstanbul
+    - **539 418 08 69** - Avukatın Sesi İnsiyatifi
+    - **535 518 70 26** - Çağdaş Hukukçular Derneği
+    - **505 570 78 29** - Çağdaş Hukukçular Derneği
+    - **543 965 85 31** - Eyüp Numan Eren  
+    - **535 518 70 36** - Ezgi Önalan  
+    - **506 675 00 29** - Barış Can Gökmen
+    - **530 110 36 69** - Ayperi Kemer
+    - **536 990 90 60** - Yaman Saygılı
+- Ankara
+    - **552 635 50 95** - ÖDTÜ
+    - **543 402 78 07** - ÖDTÜ
+    - **507 567 08 55** - ÖDTÜ
+    - **533 575 62 62** - Ankara Barosu Acil Yardım Hattı 
+    - **533 429 56 56** - Ankara Barosu Acil Yardım Hattı
+    - **312 416 72 00** - Ankara Baro Çağrı Merkezi       
+    - **539 274 44 96** - Çağdaş Hukukçular Derneği       
+    - **531 974 39 30** - Çağdaş Hukukçular Derneği   
+    - **530 084 27 85** - Av. Harun Fırsat Ulusu (ASİ)
+    - **553 919 13 57** - Av. Betül Kaya
+    - **552 320 66 09** - Ayberk
+    - **530 569 64 91** - Banu
+    - **532 268 07 81** - Burcu
+    - **543 643 00 39** - Erdem
+    - **532 546 59 57** - Esra
+    - **532 292 27 52** - Murat
+    - **506 619 67 73** - Sine
+- Antalya
+    - **536 723 90 22** - Çağdaş Hukukçular Derneği
+    - **539 489 58 71** - Çağdaş Hukukçular Derneği
+    - **544 474 54 24** - Çağdaş Hukukçular Derneği
+- Sakarya
+    - **532 377 95 85** - Sakarya Barosu İnsan Hakları Merkezi
+    - **533 034 39 39** - Sakarya Barosu Avukat Hakları Merkezi

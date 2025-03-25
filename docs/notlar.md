@@ -5,6 +5,8 @@
 - **Döviz**: Pankart
 - **Talcid/Rennie**: [Anti-asit](./mudahale.md#anti-asit) / biber gazı için yapılan spreydeki ilaçların ismi
 - **Kortej**: [Kortej](./eylem.md#kortej-101), eyleme giden kişilerin tümü ve stratejik dizilimi
+- **ACAB**: "All Cops Are Bastards"'ın kısaltması.
+- **Çapulcu**: Başkasının malını alan, talan eden kimse, yağmacı ve düşman toprağına atla hücum edip yağma eden, akıncı anlamına gelir. Gezi Park'a katılan kişilere atılan laftır.
 
 ## Taksi, Ambulans ve Eczane
 

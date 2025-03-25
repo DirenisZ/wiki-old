@@ -6,7 +6,8 @@ Buraya sık sık bakın, güncelliyoruz. Siz de [yardım edebilirsiniz](#geri-bi
 
 - [Hazırlık](./hazırlık.md): Ne getirilir, ne giyinilir, ne getirilmez
 - [Eylem](./eylem.md): Kortej bilgisi, neler yapılır, neler yapılmaz
-- [Hukuki Kaynaklar](./hukuk.md): Haklarınızı bilin, gözaltı için bilgiler, **avukat numaraları**
+- [Hukuki Kaynaklar](./hukuk.md): Haklarınızı bilin, gözaltında yapman gerekenler
+    - [Avukat Numaraları](./hukuk.md#avukat-numaralar)
 - [Müdahale](./mudahale.md): Biber gazı, toma, plastik mermi hakkında ve ilk yardım bilgileri
 - [Notlar](./notlar.md): Polisin kullandığı **taktikler** ve diğer önemli bilgiler
 
