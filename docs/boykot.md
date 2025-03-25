@@ -26,6 +26,8 @@ Boykot edilen markaların, kanmamanız gereken taktikleri:
 
 bkz. [boykot.web.tr](https://boykot.web.tr) - Boykot sitesi
 
+![](img/GmvJJSbbMAAJwpo.jpg)
+
 ![](./img/boykot-1.jpg)
 
 ## Alternatifleri

@@ -39,7 +39,7 @@ Ayrıca bkz. [Müdahale](./mudahale.md)
 - Para (Nakit! Kart getirmemeye çalışın)
 - Kimlik
 - Powerbank (tam doldur!)
-- [İlk yardım](./mudahale.md#i̇lk-yardım) malzemeleri
+- [İlk yardım](./mudahale.md#i̇lk-yardm) malzemeleri
     - Bandaj
     - Gazlı bez
     - Plaster
