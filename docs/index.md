@@ -13,7 +13,7 @@ Buraya sık sık bakın, güncelliyoruz. Siz de [yardım edebilirsiniz](#geri-bi
 
 ## Diğer Web Siteleri
 
-- [Özgürlük Haritası](https://ozgurluk-haritasi.netlify.app): Güncel protesto ve mitingler
+- [Özgürlük Haritası](https://www.ozgurlukharitasi.com/): Güncel protesto ve mitingler
 - [itaatet.me](https://itaatet.me/): ODTÜ Boykot Haritası
 - [boykot.web.tr](https://boykot.web.tr): Topluluk Destekli Boykot Platformu
 - 🔴 [engelliyoruz.tr](https://engelliyoruz.tr/) - *404, Sanıyoruz ki çöktü*
