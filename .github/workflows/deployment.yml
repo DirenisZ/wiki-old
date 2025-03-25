@@ -20,3 +20,4 @@ jobs:
       - run: sed -i "s/commit_id_placeholder/$GITHUB_SHA/" ./docs/index.md
       - run: mkdocs build
       - run: surge ./site ${{ secrets.SURGE_DOMAIN }} --token ${{ secrets.SURGE_TOKEN }}
+      - run: surge ./site ${{ secrets.SURGE_DOMAIN_2 }} --token ${{ secrets.SURGE_TOKEN }}
