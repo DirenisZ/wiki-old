@@ -4,6 +4,7 @@
 
 - **Döviz**: Pankart
 - **Talcid/Rennie**: [Anti-asit](./mudahale.md#anti-asit) / biber gazı için yapılan spreydeki ilaçların ismi
+- **Kortej**: [Kortej](./eylem.md#kortej-101), eyleme giden kişilerin tümü ve stratejik dizilimi
 
 ## Taksi, Ambulans ve Eczane
 

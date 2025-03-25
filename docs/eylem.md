@@ -1,7 +1,8 @@
 # Eylem
 
-!!! danger "TEK BAŞINIZA ÇIKMAYIN"
-    EN AZ yanınızda 2-3 kişi OLSUN
+## Tek Kalmayın
+
+Asla ama asla tek olmayın. Olabilirse grup olarak gidin.
 
 ## Asla Yapılmayacaklar
 

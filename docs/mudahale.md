@@ -37,6 +37,8 @@ Bazı anti-asit formülleri:
 - 1 Litre suya **4 Kapsül Talcid**
 - 1 Litre suya **1 Kaşık Karbonat**
 
+Bazıları süspansiyon olarak almak %55 daha ucuz ve etkilidir diyor. Bu durumda %50 ilaç %50 süspansiyon etkilidir (?)
+
 ## İlk Yardım
 
 - Sakin ve hızlı olun

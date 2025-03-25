@@ -20,11 +20,13 @@
 
 ## Bazı Threadler
 
-- 🧵 Gezi'den birisinin verdiği tavsiyeler [OKU](https://x.com/binnazreturns/status/1904073030717800936)
+- 🧵 [Gezi'den birisinin verdiği tavsiyeler](https://x.com/binnazreturns/status/1904073030717800936)
 
 ## Geri Bildirim / Ekleme isteği
 
 Siteye eklememiz istediğiniz şeyler için `direnisz19@gmail.com` 'dan e-posta atabilirsiniz.
+
+Katkıda bulmanızı bekliyoruz.
 
 ## Nedir?
 
