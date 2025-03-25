@@ -1,4 +1,4 @@
-# Saraçhane
+# DirenişZ Wiki
 
 ## Sayfalar
 
@@ -6,7 +6,7 @@
 
 - [Hazırlık](./hazırlık.md): Ne getirilir, ne giyinilir, ne getirilmez
 - [Eylem](./eylem.md): Kortej bilgisi, neler yapılır, neler yapılmaz
-- [Hukuki Kaynaklar](./hukuk.md): Haklarınızı bilin, gözaltı için bilgiler, avukat numaraları
+- [Hukuki Kaynaklar](./hukuk.md): Haklarınızı bilin, gözaltı için bilgiler, **avukat numaraları**
 - [Müdahale](./mudahale.md): Biber gazı, toma, plastik mermi hakkında ve ilk yardım bilgileri
 - [Notlar](./notlar.md): Polisin kullandığı taktikler ve diğer bilgiler
 
