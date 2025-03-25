@@ -12,8 +12,9 @@
 
 ## Başka Web Siteleri
 
-- [Özgürlük Haritası](https://ozgurluk-haritasi.netlify.app): Güncel protesto ve mitingler. Bu sitede de faydalı bilgiler kısmı var, iyidir, okuyun
+- [Özgürlük Haritası](https://ozgurluk-haritasi.netlify.app): Güncel protesto ve mitingler
 - [itaatet.me](https://itaatet.me/): ODTÜ Boykot Haritası
+- [boykot.web.tr](https://boykot.web.tr): Topluluk Destekli Boykot Platformu
 
 ## Bazı Threadler
 
