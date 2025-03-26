@@ -15,6 +15,7 @@ Buraya sık sık bakın, güncelliyoruz. Siz de [yardım edebilirsiniz](#geri-bi
 
 - [Özgürlük Haritası](https://www.ozgurlukharitasi.com/): Güncel protesto ve mitingler
 - [itaatet.me](https://itaatet.me/): ODTÜ Boykot Haritası
+- [direnis.net](https://direnis.net): Başka bir wiki
 - [boykot.web.tr](https://boykot.web.tr): Topluluk Destekli Boykot Platformu
 - 🔴 [engelliyoruz.tr](https://engelliyoruz.tr/) - *404, Sanıyoruz ki çöktü*
 
